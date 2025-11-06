@@ -3,3 +3,4 @@ test.py
 .vscode
 .venv
 .DS_Store
+__pycache__
